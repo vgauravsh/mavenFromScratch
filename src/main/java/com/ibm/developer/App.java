@@ -16,7 +16,7 @@ import java.net.Socket;
 * Hello world! 
  * 
  */ 
-public class App { 
+public class App  
 {
  public static void main(String[] args) throws IOException { 
         int port = Integer.parseInt(System.getenv("VCAP_APP_PORT")); 
