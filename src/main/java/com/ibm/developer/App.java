@@ -1,4 +1,8 @@
-package com.ibm.developer;
+﻿package com.ibm.developer; 
+
+import java.io.IOException; 
+import java.net.ServerSocket; 
+import java.net.Socket; 
 
 /**
  * Hello world!
@@ -6,11 +10,7 @@ package com.ibm.developer;
  */
 public class App 
 {
-    package com.ibm.developer; 
 
-import java.io.IOException; 
-import java.net.ServerSocket; 
-import java.net.Socket; 
 
 /** 
 * Hello world! 

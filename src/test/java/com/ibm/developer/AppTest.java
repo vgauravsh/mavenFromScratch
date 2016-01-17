@@ -33,6 +33,6 @@ public class AppTest
      */
     public void testApp() 
 	{ 
-        assertTrue( App.veryComplicatedMethod() == 42 ); 
+        assertTrue( App.veryComplicatedMethod() == 42 );
 	}
 }
